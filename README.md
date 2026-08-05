@@ -1,6 +1,6 @@
 # Student Placement Prediction
 
-This is a machine learning project developed using Python to predict whether a student will be placed or not based on various features.
+This is a machine learning project developed using **Python** to predict whether a student will be placed or not based on various features.
 
 ## 📌 Project Overview
 The goal of this project is to analyze student data and build a predictive model for placement prediction.
