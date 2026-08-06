@@ -1,30 +1,53 @@
-# Student Placement Prediction
+<h1 align="center">🎓 Student Placement Prediction</h1>
 
-This is a machine learning project developed using **Python** to predict whether a student will be placed or not based on various features.
+<p align="center">
+  🤖 Machine Learning Project | 📊 Classification Model | 🎯 Placement Prediction
+</p>
 
-## 📌 Project Overview
-The goal of this project is to analyze student data and build a predictive model for placement prediction.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/Accuracy-77%25-success?style=for-the-badge">
+</p>
 
-## ⚙️ Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
+---
 
-## 🔄 Workflow
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Scaling
-- Model Training (Logistic Regression)
-- Model Evaluation
+## 📌 About the Project
 
-## 📊 Model Performance
-The model achieved an accuracy of approximately **77%** on test data.
+This project predicts whether a **student will be placed or not** based on academic and personal features.
 
-## 📁 Files in Repository
-- `student_placement_prediction.ipynb` → Main notebook
-- `placement.csv` → Dataset
+📊 It helps institutions and students understand placement chances using **Machine Learning**.
 
-## 👨‍💻 Author
-Haseeb Khan
+---
+
+## 🎯 Features Used
+
+- 👤 Gender  
+- 📊 CGPA  
+- 💼 Internship Experience  
+- 📚 Academic Performance  
+- 🧠 Skills / Other Factors  
+
+---
+
+## ⚙️ Tech Stack
+
+✨ Tools & Libraries:
+
+- 🐍 Python  
+- 📊 Pandas  
+- 🔢 NumPy  
+- 🤖 Scikit-learn  
+- 📈 Matplotlib / Seaborn  
+
+---
+
+## 🔄 Project Workflow
+
+```mermaid
+graph LR
+A[Student Data] --> B[Data Cleaning]
+B --> C[EDA]
+C --> D[Feature Scaling]
+D --> E[Model Training]
+E --> F[Prediction]
