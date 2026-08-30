@@ -41,6 +41,15 @@ This project predicts whether a **student will be placed or not** based on acade
 * 📈 Matplotlib / Seaborn
 
 ---
+---
+
+## 🛠️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/haseebniazii/student-placement-prediction.git
+cd student-placement-prediction
 
 ## 🔄 Project Workflow
 
