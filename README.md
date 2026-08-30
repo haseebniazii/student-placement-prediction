@@ -22,11 +22,11 @@ This project predicts whether a **student will be placed or not** based on acade
 
 ## 🎯 Features Used
 
-- 👤 Gender  
-- 📊 CGPA  
-- 💼 Internship Experience  
-- 📚 Academic Performance  
-- 🧠 Skills / Other Factors  
+* 👤 Gender
+* 📊 CGPA
+* 💼 Internship Experience
+* 📚 Academic Performance
+* 🧠 Skills / Other Factors
 
 ---
 
@@ -34,11 +34,11 @@ This project predicts whether a **student will be placed or not** based on acade
 
 ✨ Tools & Libraries:
 
-- 🐍 Python  
-- 📊 Pandas  
-- 🔢 NumPy  
-- 🤖 Scikit-learn  
-- 📈 Matplotlib / Seaborn  
+* 🐍 Python
+* 📊 Pandas
+* 🔢 NumPy
+* 🤖 Scikit-learn
+* 📈 Matplotlib / Seaborn
 
 ---
 
@@ -51,3 +51,43 @@ B --> C[EDA]
 C --> D[Feature Scaling]
 D --> E[Model Training]
 E --> F[Prediction]
+```
+
+---
+
+## 📊 Model Performance
+
+The classification model achieved an accuracy of approximately **77%** on the test data.
+
+* 🎯 **Accuracy:** 77%
+* 🤖 **Task:** Student Placement Classification
+* 📈 **Evaluation:** Test Dataset
+
+---
+
+## 📁 Project Structure
+
+```text
+student-placement-prediction/
+│
+├── placement.csv
+├── student_placement_prediction.ipynb
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+* 🔹 Try Random Forest and other classification algorithms
+* 🔹 Perform hyperparameter tuning
+* 🔹 Improve model accuracy
+* 🔹 Deploy the model as a web application
+
+---
+
+## 👨‍💻 Author
+
+**Haseeb Khan**
+
+🔗 GitHub: `https://github.com/haseebniazii`
